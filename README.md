@@ -21,9 +21,7 @@ In order to disociate the Bluetooth from the Activity we used
 #### Establishing a connexion
 The connexion button 
 
-
-
-
-
 ## Credits
+Application realised by DUPONT Cyrille et THOMASSET Corentin.
 
+Inspired by [this developer.android.com tutorial](https://developer.android.com/guide/topics/connectivity/bluetooth.html)
