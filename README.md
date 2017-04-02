@@ -14,13 +14,6 @@ The main view contain :
   * An **input view** with a **sending button** : in order to send data
   * A **text view** : in order to view incomming data
 
-### How does it works
-#### Communication between classes
-In order to disociate the Bluetooth from the Activity we used 
-
-#### Establishing a connexion
-The connexion button 
-
 ## Credits
 Application realised by DUPONT Cyrille et THOMASSET Corentin.
 
