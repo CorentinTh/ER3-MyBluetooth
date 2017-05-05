@@ -15,6 +15,6 @@ The main view contain :
   * A **text view** : in order to view incomming data
 
 ## Credits
-Application realised by DUPONT Cyrille et THOMASSET Corentin.
+Application realised by **DUPONT Cyrille** et **THOMASSET Corentin** through the **Study & Realisation** class in **Electrical Engineering and Computing Science** (2nd year) at the IUT d'Annecy.
 
-Inspired by [this developer.android.com tutorial](https://developer.android.com/guide/topics/connectivity/bluetooth.html)
+Inspired by [this developer.android.com tutorial](https://developer.android.com/guide/topics/connectivity/bluetooth.html).
